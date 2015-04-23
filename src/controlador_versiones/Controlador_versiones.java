@@ -10,6 +10,10 @@ package controlador_versiones;
  */
 public class Controlador_versiones {
 
+    
+    int a;
+    int b;
+    
     /**
      * @param args the command line arguments
      */
