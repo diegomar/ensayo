@@ -11,8 +11,11 @@ package controlador_versiones;
 public class Controlador_versiones {
 
     
-    int a;
-    int b;
+    int a=4;
+    int b=5;
+    int s;
+    
+    s=a+b;
     
     /**
      * @param args the command line arguments
